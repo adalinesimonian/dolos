@@ -14,3 +14,8 @@ Simple. Download the ZIP archive off the GitHub repository page, extract it
 into its own folder **(important!)**, and then double-click `install.cmd`.
 
 That's about it!
+
+## License
+
+MIT. Dependencies each have their own licenses, which are available in the
+`deps` folder.
